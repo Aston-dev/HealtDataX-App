@@ -1,2 +1,1 @@
-# HealtDataX-App
-HealthDataX: A healthcare platform that digitizes medical documents, enhances patient-doctor communication, and enables data analysis. It integrates information capture and analysis challenges, optimizing patient care, remote diagnosis, and data-driven insights. Utilizing OpenText APIs, it empowers doctors for remote patient support.
+"HealthDataX" is a healthcare platform that digitizes medical documents, streamlines data analysis, and improves patient-doctor communication. It efficiently addresses information capture and analysis challenges, enhancing patient care and enabling remote diagnosis. Utilizing OpenText APIs, it empowers doctors for remote patient support, prioritizing user experience through a user-friendly interface and responsive design.
